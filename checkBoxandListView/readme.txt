@@ -1,0 +1,2 @@
+带checkBox的listView。包含checkBox选择和取消选择显示样式的改变
+listView的item和item中的Button同时可以点击，只须在布局文件中给button加上focusable=false即可
